@@ -10,7 +10,7 @@
 
 - Languages: **Php, Python, JavaScript, Typescript and SQL**
 - Frameworks: **Laravel, Django, React, Angular, Tailwind CSS**
-- Tools: **Git, Github, Jira, Docker**  
+- Tools: **Git, Github, Jira, Docker and etc...**  
 
 ### ⚡ Fun Fact
 "Programming isn't about what you know; it's about what you can figure out." — Chris Pine
