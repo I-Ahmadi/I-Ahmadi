@@ -4,7 +4,7 @@
 
 **I’m a Software Engineer focused on full-stack web development, always seeking to build scalable and innovative softwares.**
 - I am currently building a **Social Media app called Substack**
-- Open to collaborations on exciting Open Source Projects.
+- I am looking to collaborate on Open Source Projects..
 
 ### 🛠️ Technologies & Tools
 
