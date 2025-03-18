@@ -1,5 +1,7 @@
 ## Hi there! 👋 I'm Ismail Ahmadi  
 
+I’m a Software Engineer with a deep focus on full-stack web development, always seeking to build scalable and innovative software
+
 🚀 **Software Engineer | Php & Laravel | TypeScript & Angular Developer**  
 
 ### 🔹 About Me  
