@@ -1,18 +1,20 @@
-## Hi there! 👋 I'm Ismail Ahmadi
+## Hi there! 👋 I'm Ismail Ahmadi  
 
-🚀 **Software Engineer | PHP & Laravel Expert | TypeScript & Angular Developer**  
+🚀 **Software Engineer | Php & Laravel | TypeScript & Angular Developer**  
 
-<!--
-**I-Ahmadi/I-Ahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 About Me  
+- 💻 Specializing in **backend & full-stack development**  
+- 🚀 Skilled in **Php, Laravel, TypeScript, Angular, and SQL**  
+- 📱 Currently working on a **Social Media app called Substack**  
+- 🌱 Passionate about **scalable software solutions** and modern web technologies  
+- 🤝 Open to collaborations on exciting tech projects  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack  
+- **Languages:** Php, TypeScript, SQL  
+- **Backend:** Laravel, Django (learning)  
+- **Frontend:** Angular, TypeScript  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools & DevOps:** Git, Docker, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Fact  
+💡 "First, solve the problem. Then, write the code." — John Johnson  
