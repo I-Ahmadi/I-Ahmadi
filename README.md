@@ -8,8 +8,8 @@
 
 ### 🛠️ Technologies & Tools
 
-- Languages: **Php, Python, JavaScript, Typescript and SQL**
-- Frameworks: **Laravel, Django, React, Angular, Tailwind CSS**
+- Languages: **Python, Php, JavaScript, Typescript and SQL**
+- Frameworks: **Django, Laravel, React, Angular, Tailwind CSS**
 - Tools: **Git, Github, Jira, Docker and etc...**  
 
 ### ⚡ Fun Fact
